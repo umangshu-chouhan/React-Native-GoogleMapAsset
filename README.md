@@ -1,6 +1,6 @@
 ## React-Native-Maps with route information.
 Using 
-![`react-native-maps`](https://github.com/react-native-community/react-native-maps)for showing maps, in iOS it uses Apple maps and in Android google maps is displayed.
+[`react-native-maps`](https://github.com/react-native-community/react-native-maps)for showing maps, in iOS it uses Apple maps and in Android google maps is displayed.
 
 
 Used google api to fetch the route information for the event waypoint.
