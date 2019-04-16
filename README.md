@@ -1,3 +1,9 @@
+## React-Native-Maps with route information.
+Using `react-native-maps` for showing maps, in iOS it uses Apple maps and in Android google maps is displayed.
+https://github.com/react-native-community/react-native-maps
+
+Used google api to fetch the route information for the event waypoint.
+
 ## Development Setup Instructions
 
 - Clone the repository above
@@ -12,3 +18,5 @@
 2.  Create a .env file at the root of the project folder with these 2 variables
 
     `GOOGLE_MAPS_API_KEY='PASTE_THE_KEY_HERE'`
+
+![Screenshot](screenshot.png)
