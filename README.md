@@ -20,3 +20,7 @@ Used google api to fetch the route information for the event waypoint.
     `GOOGLE_MAPS_API_KEY='PASTE_THE_KEY_HERE'`
 
 ![Screenshot](screenshot.png)
+
+<p align="center">
+  <img src="screenshot.png" width="350" title="Screenshot">
+</p>
