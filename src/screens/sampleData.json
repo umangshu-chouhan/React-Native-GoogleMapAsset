@@ -1,0 +1,89 @@
+[
+  {
+    "attributes": {
+      "type": "Event",
+      "url": "/services/data/v43.0/sobjects/Event/00U1U0000018MMDUA2"
+    },
+    "Id": "00U1U0000018MMDUA2",
+    "Subject": "Meeting",
+    "ActivityDate": "2019-04-01",
+    "Account": {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v43.0/sobjects/Account/0011U00000LWHYqQAP"
+      },
+      "Name": "Global Media",
+      "BillingAddress": {
+        "city": "Toronto",
+        "country": "Canada",
+        "geocodeAccuracy": null,
+        "latitude": null,
+        "longitude": null,
+        "postalCode": "L4B 1Y3",
+        "state": "Ontario",
+        "street": "150 Chestnut Street"
+      }
+    },
+    "StartDateTime": "2019-04-01T08:00:00.000+0000",
+    "EndDateTime": "2019-04-01T09:00:00.000+0000",
+    "Description": "Meet with the Account director to discuss new opportunities"
+  },
+  {
+    "attributes": {
+      "type": "Event",
+      "url": "/services/data/v43.0/sobjects/Event/00U1U0000018MMwUAM"
+    },
+    "Id": "00U1U0000018MMwUAM",
+    "Subject": "Meeting",
+    "ActivityDate": "2019-04-01",
+    "Account": {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v43.0/sobjects/Account/0011U00000LDQlhQAH"
+      },
+      "Name": "Acme Corp",
+      "BillingAddress": {
+        "city": "Toronto",
+        "country": "Canada",
+        "geocodeAccuracy": null,
+        "latitude": null,
+        "longitude": null,
+        "postalCode": "M5M 1W4",
+        "state": "Ontario",
+        "street": "315 St Germain Ave"
+      }
+    },
+    "StartDateTime": "2019-04-01T12:00:00.000+0000",
+    "EndDateTime": "2019-04-01T13:00:00.000+0000",
+    "Description": "Discuss new products and try to find some good opportunities in the account which was supposed to be the best account sometime."
+  },
+  {
+    "attributes": {
+      "type": "Event",
+      "url": "/services/data/v43.0/sobjects/Event/00U1U0000018MMIUA2"
+    },
+    "Id": "00U1U0000018MMIUA2",
+    "Subject": "Meeting",
+    "ActivityDate": "2019-04-01",
+    "Account": {
+      "attributes": {
+        "type": "Account",
+        "url": "/services/data/v43.0/sobjects/Account/0011U00000LWHYrQAP"
+      },
+      "Name": "Acme",
+      "BillingAddress": {
+        "city": "Toronto",
+        "country": "Canada",
+        "geocodeAccuracy": null,
+        "latitude": null,
+        "longitude": null,
+        "postalCode": "M4L 1V3",
+        "state": "Ontario",
+        "street": "500 Kingston Rd"
+      }
+    },
+    "StartDateTime": "2019-04-01T09:00:00.000+0000",
+    "EndDateTime": "2019-04-01T10:00:00.000+0000",
+    "Description": "Discuss new products and take order"
+  }
+]
